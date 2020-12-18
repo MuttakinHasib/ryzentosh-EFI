@@ -12,3 +12,5 @@
 | RAM | 8GB CORSAIR VENGEANCE RGB PRO |
 | SSD | Samsung 970 EVO Plus NVMe M.2 250GB SSD |
 | WiFi | TP-Link Archer T2U AC600 |
+| LAN CHIPSET | Realtek® 8111H Gigabit LAN |
+| AUDIO CHIPSET | Realtek® ALC892 |
