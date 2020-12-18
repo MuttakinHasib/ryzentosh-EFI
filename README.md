@@ -6,7 +6,7 @@
 ## Specifications
 | **Component** | **Model** |
 | ------------- | --------- |
-| CPU | AMD Ryzen 7 3700x |
+| CPU | AMD Ryzen 7 3700X |
 | Motherboard | MSI B450 Tomahawk Max |
 | GPU | Sapphire Nitro+ RX 5700 XT 8G GDDR6 |
 | RAM | 8GB CORSAIR VENGEANCE RGB PRO |
