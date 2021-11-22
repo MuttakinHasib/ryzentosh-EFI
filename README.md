@@ -1,7 +1,7 @@
 # Hackintosh | Ryzentosh | Macintosh
-**macOS versions**: Big Sur 11.2.1
+**macOS versions**: Monterey 12.1 Beta
 
-**OpenCore version**: [0.6.8](https://github.com/acidanthera/OpenCorePkg/releases)
+**OpenCore version**: [0.7.5](https://github.com/acidanthera/OpenCorePkg/releases)
 
 ## Specifications
 | **Component** | **Model** |
@@ -11,6 +11,7 @@
 | GPU | Sapphire Nitro+ RX 5700 XT 8G GDDR6 |
 | RAM | 8GB CORSAIR VENGEANCE RGB PRO |
 | SSD | Samsung 970 EVO Plus NVMe M.2 250GB SSD |
+| SSD | Samsung 870 EVO 500GB 2.5 Inch SATA III Internal SSD |
 | WiFi | TP-Link Archer T2U AC600 |
 | LAN CHIPSET | Realtek® 8111H Gigabit LAN |
 | AUDIO CHIPSET | Realtek® ALC892 |
