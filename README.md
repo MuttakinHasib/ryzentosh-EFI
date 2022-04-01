@@ -1,5 +1,5 @@
 # Hackintosh | Ryzentosh | Macintosh
-**macOS versions**: Monterey 12.2
+**macOS versions**: Monterey 12.3.1
 
 **OpenCore version**: [0.7.9](https://github.com/acidanthera/OpenCorePkg/releases)
 
