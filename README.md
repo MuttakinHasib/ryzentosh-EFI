@@ -1,7 +1,7 @@
 # Hackintosh | Ryzentosh | Macintosh
-**macOS versions**: Monterey 12.3.1
+**macOS versions**: Sonoma 14.0 (23A344)
 
-**OpenCore version**: [0.7.9](https://github.com/acidanthera/OpenCorePkg/releases)
+**OpenCore version**: [0.9.5](https://github.com/acidanthera/OpenCorePkg/releases)
 
 ## Specifications
 | **Component** | **Model** |
